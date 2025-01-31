@@ -4,9 +4,11 @@ import { Button } from '@/components/ui/button'
 const page = () => {
   return (
     <>
-    <div>page</div>
-    <h1>Hello</h1>
-    <Button>Click me</Button>
+    
+    {/* <Button>Click me</Button> */}
+    {/* <img src="/Logo1.png" alt="logo" /> */}
+    <img src="/Live2Solo-8726.JPG" alt="Pic" />
+    
     </>
   )
 }

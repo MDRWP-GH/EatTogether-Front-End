@@ -34,6 +34,11 @@ export default function RootLayout({
           <NavBar />
           {children}
         </Providers>
+
+        <footer>
+            <div><img src="/Logo1.png" alt="logo" style={{ width: '100px', height: '100px' }} /></div>
+            <p>Copyright 2024-2025 Puripat & Thammavut All right reserved.  Terms & Conditions | Privacy Policy</p>
+        </footer>
       </body>
     </html>
   );

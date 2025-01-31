@@ -6,9 +6,8 @@ const Navbar = () => {
   return (
     <nav>
       <div className="container flex justify-between
-      py-10 sm:flex-row sm:item-center gap-4
+      py-10 sm:flex-row sm:items-center gap-4
       ">
-        {/* Logo */}
         <Logo />
         {/* Search */}
         <Search />
